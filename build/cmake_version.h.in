@@ -1,0 +1,33 @@
+/* Auto-generated version information file */
+#define MISSION_CONFIG      "sample"
+#define MISSION_NAME        "OpenSatKit"
+#define OPENSATKIT_VERSION "@MISSION_VERSION@"
+#define OSAL_VERSION "@osal_VERSION@"
+#define APP_FW_LIB_VERSION "@app_fw_lib_VERSION@"
+#define BM_VERSION "@bm_VERSION@"
+#define CFS_LIB_VERSION "@cfs_lib_VERSION@"
+#define CS_VERSION "@cs_VERSION@"
+#define DS_VERSION "@ds_VERSION@"
+#define EXPAT_LIB_VERSION "@expat_lib_VERSION@"
+#define FM_VERSION "@fm_VERSION@"
+#define FW_DEMO_VERSION "@fw_demo_VERSION@"
+#define HC_VERSION "@hc_VERSION@"
+#define HS_VERSION "@hs_VERSION@"
+#define HSIM_VERSION "@hsim_VERSION@"
+#define KIT_CI_VERSION "@kit_ci_VERSION@"
+#define KIT_SCH_VERSION "@kit_sch_VERSION@"
+#define KIT_TO_VERSION "@kit_to_VERSION@"
+#define LC_VERSION "@lc_VERSION@"
+#define MD_VERSION "@md_VERSION@"
+#define MM_VERSION "@mm_VERSION@"
+#define SAMPLE_APP_VERSION "@sample_app_VERSION@"
+#define SAMPLE_LIB_VERSION "@sample_lib_VERSION@"
+#define SC_VERSION "@sc_VERSION@"
+#define TFTP_VERSION "@tftp_VERSION@"
+#define F42_VERSION "@f42_VERSION@"
+#define I42_VERSION "@i42_VERSION@"
+#define CFE_VERSION "@cfe-core_VERSION@"
+
+#define MISSION_VERSION OPENSATKIT_VERSION
+
+ /* end */

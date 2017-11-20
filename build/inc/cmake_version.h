@@ -1,0 +1,33 @@
+/* Auto-generated version information file */
+#define MISSION_CONFIG      "sample"
+#define MISSION_NAME        "OpenSatKit"
+#define OPENSATKIT_VERSION "error/unknown"
+#define OSAL_VERSION "error/unknown"
+#define APP_FW_LIB_VERSION "error/unknown"
+#define BM_VERSION "error/unknown"
+#define CFS_LIB_VERSION "error/unknown"
+#define CS_VERSION "error/unknown"
+#define DS_VERSION "error/unknown"
+#define EXPAT_LIB_VERSION "error/unknown"
+#define FM_VERSION "error/unknown"
+#define FW_DEMO_VERSION "error/unknown"
+#define HC_VERSION "error/unknown"
+#define HS_VERSION "error/unknown"
+#define HSIM_VERSION "error/unknown"
+#define KIT_CI_VERSION "error/unknown"
+#define KIT_SCH_VERSION "error/unknown"
+#define KIT_TO_VERSION "error/unknown"
+#define LC_VERSION "error/unknown"
+#define MD_VERSION "error/unknown"
+#define MM_VERSION "error/unknown"
+#define SAMPLE_APP_VERSION "error/unknown"
+#define SAMPLE_LIB_VERSION "error/unknown"
+#define SC_VERSION "error/unknown"
+#define TFTP_VERSION "error/unknown"
+#define F42_VERSION "error/unknown"
+#define I42_VERSION "error/unknown"
+#define CFE_VERSION "error/unknown"
+
+#define MISSION_VERSION OPENSATKIT_VERSION
+
+ /* end */
